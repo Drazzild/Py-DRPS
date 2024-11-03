@@ -85,6 +85,6 @@ This project is licensed under the MIT License.
 
 This project uses the following open-source libraries:
 
-- [pypresence](https://github.com/qwertyquerty/pypresence - for interacting with Discord Rich Presence.
+- [pypresence](https://github.com/qwertyquerty/pypresence) - for interacting with Discord Rich Presence.
 - [Pillow](https://python-pillow.org/) - for image processing and creating the tray icon.
 - [pystray](https://github.com/moses-palmer/pystray) - for displaying and controlling a tray icon.

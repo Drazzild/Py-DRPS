@@ -1,3 +1,4 @@
+- Dont speak German no problem here is the [English Readme](https://github.com/Drazzild/Py-DRPS/blob/main/README-EN.md) file.
 
 # Discord Rich Presence Script
 

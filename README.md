@@ -1,3 +1,4 @@
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 - Dont speak German no problem here is the [English Readme](https://github.com/Drazzild/Py-DRPS/blob/main/README-EN.md) file.
 
 # Discord Rich Presence Script
